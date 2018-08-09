@@ -1,7 +1,7 @@
 ![dogdog](https://cloud.githubusercontent.com/assets/1270156/19406321/56122900-9249-11e6-8158-6987c82cbbdf.jpg)
 
 # Dog API
-This is the Dog API and it provides dog facts as a service dogdog :dog:
+This is the Space Force Facts API and it provides spaceforce facts as a service :rocket:
 
 ## Add to Slack
 <a href="https://slack.com/oauth/authorize?scope=incoming-webhook,commands&client_id=2160638498.90708647394"><img alt="Add to Slack" height="40" width="139" src="https://platform.slack-edge.com/img/add_to_slack.png" srcset="https://platform.slack-edge.com/img/add_to_slack.png 1x, https://platform.slack-edge.com/img/add_to_slack@2x.png 2x" /></a>
@@ -16,7 +16,7 @@ If installation was successful you'll receive a welcome message :)
 ### Privacy Policy
 Dog Facts is just for fun. The only data retained by Dog Facts is your team webhook url (which is required to post Dog Facts messages to your Slack). Otherwise, no data is kept.
 
-For questions or support, please email `el@kinduff.com` or contact directly through Twitter `http://twitter.com/kinduff`
+For questions or support, please email me or contact directly through Instagram.
 
 ## Use it as an API
 
@@ -65,7 +65,7 @@ rake server
 Or just `rake` by it self. The application should now be running in `http://localhost:4567`.
 
 ## Why you made this?
-There's a [Cat API](http://catfacts-api.appspot.com) that returns cat facts. I like cats but I like dogs more. Equilibrium must exists.
+There's a [Dog API] that returns dog facts and a [Cat API] that returns cat facts. I like cats and dogs but I like space more. #theuniverse
 
 ## Sources
 Lot's of places, I'll list them tomorrow, mom.
