@@ -1,6 +1,6 @@
 ![spaceforce](https://res.cloudinary.com/teepublic/image/private/s--hsZBZ4y1--/t_Preview/b_rgb:ffffff,c_limit,f_jpg,h_630,q_90,w_630/v1529366551/production/designs/2801176_0.jpg)
 
-# Dog API
+# Space Force Facts API
 This is the Space Force Facts API and it provides spaceforce facts as a service :rocket:
 
 ## Add to Slack
@@ -9,12 +9,12 @@ This is the Space Force Facts API and it provides spaceforce facts as a service 
 This will enable two things:
 
 - One daily random fact posted in the channel you select.
-- A Slack slash command (`/dogfact`) to retrieve a single fact on any channel.
+- A Slack slash command (`/spaceforcefact`) to retrieve a single fact on any channel.
 
 If installation was successful you'll receive a welcome message :)
 
 ### Privacy Policy
-Dog Facts is just for fun. The only data retained by Dog Facts is your team webhook url (which is required to post Dog Facts messages to your Slack). Otherwise, no data is kept.
+Space Force Facts is just for fun. The only data retained by Space Force Facts is your team webhook url (which is required to post Space Force Facts messages to your Slack). Otherwise, no data is kept.
 
 For questions or support, please email me or contact directly through Instagram.
 
