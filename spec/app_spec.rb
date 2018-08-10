@@ -1,6 +1,6 @@
 require File.expand_path '../spec_helper.rb', __FILE__
 
-describe 'Dog Facts' do
+describe 'Space Force Facts' do
   it 'should return a json object as response' do
     get '/api/facts'
     headers = last_response.header['Content-Type']
