@@ -2,9 +2,9 @@ require 'httparty'
 
 class Dog
   def self.welcome_message
-    "Welcome to Dog Facts!\n" +
-    "You will now receive fun semi-irregular facts about DOGS! :dog: :tada:\n" +
-    "You can also get a random fact by sending `/dogfact` from any channel."
+    "Welcome to Space Force Facts!\n" +
+    "You will now receive fun semi-irregular facts about Space Force! :rocket: :tada:\n" +
+    "You can also get a random fact by sending `/spaceforcefact` from any channel."
   end
 
   def self.sniff(code)
