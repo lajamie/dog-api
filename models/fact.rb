@@ -8,6 +8,6 @@ class Fact < ActiveRecord::Base
   end
 
   def message
-    "*Dog Fact ##{self.id}*: #{self.body}\n:dog: :dog: :dog:"
+    "*Space Force Fact ##{self.id}*: #{self.body}\n:rocket: :rocket: :rocket:"
   end
 end
